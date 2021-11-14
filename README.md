@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @yaz-io
 - 👀 I’m interested in ... Gaming, Art, Content Creation and Music
-- 🌱 I’m currently learning ... JS, CSS, HTML and I am very new to this.
+- 🌱 I’m currently learning ... JS, CSS, HTML!
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 
